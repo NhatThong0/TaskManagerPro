@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://qlcv-85bd2-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">411710209036</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdIv6BUI1Wcmc-_Fj3GH7P658Bu-9nnZM</string>
+    <string name="google_app_id" translatable="false">1:411710209036:android:7db3ebd9850c8d14528229</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdIv6BUI1Wcmc-_Fj3GH7P658Bu-9nnZM</string>
+    <string name="google_storage_bucket" translatable="false">qlcv-85bd2.appspot.com</string>
+    <string name="project_id" translatable="false">qlcv-85bd2</string>
+</resources>

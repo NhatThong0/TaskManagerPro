@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "411710209036",
+    "firebase_url": "https://qlcv-85bd2-default-rtdb.firebaseio.com",
+    "project_id": "qlcv-85bd2",
+    "storage_bucket": "qlcv-85bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411710209036:android:7db3ebd9850c8d14528229",
+        "android_client_info": {
+          "package_name": "com.example.todomadeeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIv6BUI1Wcmc-_Fj3GH7P658Bu-9nnZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
